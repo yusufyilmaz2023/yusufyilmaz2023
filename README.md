@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yusufyilmaz2023 
+- 👋 Hi, I’m Yusuf YILMAZ 
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning JavaScript, REACT.
 - 💞️ I’m looking to collaborate on good company.
